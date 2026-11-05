@@ -14,3 +14,8 @@ mvn compile exec:java -Dexec.mainClass="com.example.JsonUserUtility"
 
 ## Tech
 Java 17, Maven, Jackson Databind
+
+## Output
+
+![Program Output](screenshots/output.png)
+![alt text](Output.png)
