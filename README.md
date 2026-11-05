@@ -17,5 +17,4 @@ Java 17, Maven, Jackson Databind
 
 ## Output
 
-![Program Output](screenshots/output.png)
-![alt text](Output.png)
+![Program Output](screenshots/Output.png)
